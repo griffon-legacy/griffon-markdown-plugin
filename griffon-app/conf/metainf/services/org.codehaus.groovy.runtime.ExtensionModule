@@ -1,0 +1,4 @@
+moduleName=griffon-markdown
+moduleVersion=0.1
+extensionClasses=griffon.plugins.markdown.MarkdownExtension
+staticExtensionClasses=

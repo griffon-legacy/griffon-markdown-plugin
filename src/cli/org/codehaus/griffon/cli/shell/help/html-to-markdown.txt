@@ -1,0 +1,15 @@
+DESCRIPTION
+        html-to-markdown
+
+	Converts HTML sources to Markdown
+
+SYNTAX
+        html-to-markdown [options] files
+
+ARGUMENTS
+        files
+                Directories and/or files to be converted.
+
+OPTIONS
+        --non-interactive
+                Controls if the shell can ask for input or not.
