@@ -278,7 +278,7 @@ not necessarily at startup.
 [grails-markdown]: http://grails.org/plugin/markdown
 [Daring Fireball]: http://daringfireball.net/projects/markdown/basics
 [Pegdown]: http://pegdown.org
-[Remark]: http://www.overzealous.com/remark
+[Remark]: http://remark.overzealous.com/manual/index.html
 [Markdown Extra]: http://michelf.com/projects/php-markdown/extra/
 [Multimarkdown]: http://fletcher.github.com/peg-multimarkdown/#tables
 '''
